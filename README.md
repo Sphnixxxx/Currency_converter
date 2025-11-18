@@ -8,4 +8,4 @@ Handles invalid inputs (non-numeric, invalid currency codes).
 
 Requirements:
 Python 3.6 or higher.
-requests library for making HTTP requests.
+Requests library for making HTTP requests.
